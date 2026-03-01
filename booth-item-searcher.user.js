@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0.0
 // @description  Auto-search Booth.pm items on an external forum and display results in a floating panel
-// @author       You
+// @author       ripper007
 // @license      MIT
 // @updateURL    https://github.com/ripple007/Booth-Item-Searcher/raw/main/booth-item-searcher.user.js
 // @downloadURL  https://github.com/ripple007/Booth-Item-Searcher/raw/main/booth-item-searcher.user.js
